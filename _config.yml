@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo2.png"
+  name   : "Hyeongyu Carlos Kim"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "MY name is Hyeongyu-Kim, an AI researcher."
   links:
     # - label: "Website"
